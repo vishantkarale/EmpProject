@@ -22,7 +22,7 @@ public class StudentController {
 
 	}
 
-	@RequestMapping(value = "/Save")
+	@RequestMapping(value = "/Inserted")
 	public void createStudent() {
 		Student s1 = new Student("Vishant", "vvvvv");
 		Student s2 = new Student("Nileshkumar", "nnnn");

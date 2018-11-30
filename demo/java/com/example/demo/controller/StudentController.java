@@ -22,7 +22,11 @@ public class StudentController {
 
 	}
 
+<<<<<<< HEAD
 	@RequestMapping(value = "/Inserted")
+=======
+	@RequestMapping(value = "/Save")
+>>>>>>> branch 'master' of https://github.com/vishantkarale/EmpProject.git
 	public void createStudent() {
 		Student s1 = new Student("Vishant", "vvvvv");
 		Student s2 = new Student("Nileshkumar", "nnnn");

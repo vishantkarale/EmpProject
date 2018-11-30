@@ -8,4 +8,11 @@ public class RestController {
 		System.out.println("In rest controller");
 	}
 
+	
+	public static void main1() {
+		System.out.println("In rest controller");
+	}
+	public static void main2() {
+		System.out.println("In rest controller");
+	}
 }
